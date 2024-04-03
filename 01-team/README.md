@@ -1,41 +1,74 @@
-# [Project] Team Structure
+# Stellara Staff Team
 
-Please specify following team details:
 
-**Total Team Size**: [X]
+**Total Team Size**: [14]
 
-| Role               | Name   | Email   |
-| ------------------ | ------ | ------- |
-| Delivery Manager   | [Name] | [Email] |
-| Software Architect | [Name] | [Email] |
-| Product Owner      | [Name] | [Email] |
-| Scrum Master       | [Name] | [Email] |
-| Developer          | [Name] | [Email] |
-| Developer          | [Name] | [Email] |
-| Tester             | [Name] | [Email] |
+| Role               | Discord        | In-Game           |
+| ------------------ | ----------     | -----------       |
+| Owner              | [Real]         | [``]              |
+| Head Manager       | [Case]         | [CaseThePillows]  |
+| Staff Manager      | [Mariah]       | [cvriousity]      |
+| Head Admin         | [NONE]         | [NONE]            |
+| Admin              | [Bengan]       | [MrBengan]        |
+| Senior Moderator   | [Aly]          | [4Aly]            |
+| Moderator          | [Jyn]          | [Jynboy1011]      |
+| Moderator          | [Atul]         | [CuriousCamel]    |
+| Moderator          | [CryoBurned]   | [CryoBurned]      |
+| Moderator          | [Haste]        | [HasteSFx]        |
+| Moderator          | [Plus]         | [Pl_s]            |
+| Junior Moderator   | [Smogzz]       | [Smogzz]          |
+| Developer          | [Lapo]         | [``]              |
+| Builder            | [NONE]         | [NONE]            |
+| Helper             | [Cabagaba1610] | [cabagaba1610]    |
+| Helper             | [Lifelog]      | [Lifelog_]        |
 
 ## Responsibilities
 
-### Delivery Manager
+### Head Manager
 
-- [ ] Owns end-to-end delivery of the project
-- [ ] Owns project delivery plan
+- [ ] TBD
 
-### Software Architect
+### Staff Manager
 
-- [ ] Owns technical quality of the delivery
-- [ ] Maintains software architecture
-- [ ] New developer onboarding
-- [ ] Sets code review process
+- [ ] TBD
 
-### Product Owner
+### Head Admin
 
-- [ ] Works with customer to define product backlog in JIRA or related
-- [ ] Acts as a point of contact for the team for any business requirement clarifications
+- [ ] TBD
 
-### Scrum Master
+### Admin
 
-- [ ] Facilitate scrum meetings
+- [ ] TBD
+
+### Senior Moderator
+
+- [ ] TBD
+
+
+### Moderator
+
+- [ ] TBD
+
+
+### Junior Moderator
+
+- [ ] TBD
+
+### Developer
+
+- [ ] TBD
+
+
+### Builder
+
+- [ ] TBD
+
+
+### Helper
+
+- [ ] TBD
+
+
 
 
 
