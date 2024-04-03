@@ -12,5 +12,5 @@ Join us on: `play.stellaramc.net`
 | [Staff Team](./Staff-Team/Team-List.md)               | A list of our current Staff team & their responsibilities    |
 | [Beta Goals](./Beta-Stage-Goals/Beta-Goals.md)        | Our goals In mind for the Beta Stage                         |
 | [Space Plugin](./Space-Plugin/README.md)              | Documents related to the Space plugin                        |
-| [KingdomsX Plugin](./05-design-docs)                  | Documents related to the KingdomsX plugin                    |
+| [KingdomsX Plugin](./KingdomsX-Plugin/README.md)                  | Documents related to the KingdomsX plugin                    |
 
