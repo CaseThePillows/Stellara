@@ -13,7 +13,4 @@ Join us on: `play.stellaramc.net`
 | [Development Process](./03-development-process)       | Our goals In mind for the Beta Stage                         |
 | [Space Plugin](./04-architecture)                     | Documents related to the Space plugin                        |
 | [KingdomsX Plugin](./05-design-docs)                  | Documents related to the KingdomsX plugin                    |
-~| [extra](./06-code-review-process)                     | extra                                                        |
-~| [extra](./07-delivery-metrics)                        | extra                                                        |
-~| [extra](./08-release-and-deployment)                  | extra                                                        |
 
