@@ -9,7 +9,7 @@ Join us on: `play.stellaramc.net`
 
 | Topic                                                 | Description                                                  |
 | ----------------------------------------------------- | ------------------------------------------------------------ |
-| [Staff Team](./01-team)                               | A list of our current Staff team & their responsibilities    |
+| [Staff Team](./Staff-Team)                               | A list of our current Staff team & their responsibilities    |
 | [Development Process](./03-development-process)       | Our goals In mind for the Beta Stage                         |
 | [Space Plugin](./04-architecture)                     | Documents related to the Space plugin                        |
 | [KingdomsX Plugin](./05-design-docs)                  | Documents related to the KingdomsX plugin                    |
